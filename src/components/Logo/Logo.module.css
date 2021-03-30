@@ -1,0 +1,27 @@
+.Logo{
+    background-color: white;
+    padding: 8px;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+.font{
+    font-family: 'Comfortaa', cursive;
+    font-Weight: bold; 
+    font-Size: 25px;
+    color: #271616; 
+
+}
+
+.Logo img {
+    height: 100%;
+}
+
+
+
+
+
+
+
+
